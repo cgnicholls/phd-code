@@ -1,2 +1,3 @@
 *.sig
 old/*
+.DS_Store
